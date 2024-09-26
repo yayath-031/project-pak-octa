@@ -1054,18 +1054,49 @@ film = [
 
 
 
-def tarik_data_berdasarkan_kriteria(kriteria, nilai):
+# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
+#     hasil = []
+    
+#     for item in film:
+#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+#             format_output = f'"{item["judul"]} ({", ".join(item["genre"])}) ({item["tahun terbit"]})"'
+#             hasil.append(format_output)
+    
+#     if hasil:
+#         return "\n".join(hasil)
+#     else:
+#         return f'Tidak ada film yang ditemukan dengan {kriteria} "{nilai}".'
+
+# data_film = tarik_data_berdasarkan_kriteria("Genre", "romance")
+# print(data_film)
+
+
+def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
     hasil = []
+    hitung = 0
     
     for item in film:
-        if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-            format_output = f'"{item["judul"]} ({", ".join(item["genre"])}) ({item["tahun terbit"]})"'
-            hasil.append(format_output)
+        if hitung >= batas:
+            break  # Hentikan jika sudah mencapai batas
+        
+        # Sesuaikan pengecekan kriteria dengan dataset
+        if isinstance(item.get(kriteria.lower()), list):  # Untuk kriteria yang berupa list (genre, bahasa)
+            if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+                hasil.append(f'{item["judul"]} - {", ".join(item[kriteria.lower()])}')
+                hitung += 1
+        else:  # Untuk kriteria yang berupa string (tahun terbit)
+            if nilai.lower() == item.get(kriteria.lower(), "").lower():
+                hasil.append(f'{item["judul"]} - {item[kriteria.lower()]}')
+                hitung += 1
     
     if hasil:
         return "\n".join(hasil)
     else:
         return f'Tidak ada film yang ditemukan dengan {kriteria} "{nilai}".'
 
-data_film = tarik_data_berdasarkan_kriteria("Genre", "romance")
+# Contoh penggunaan
+kriteria = "genre"
+nilai = "Romance"
+batas = 5  # Menentukan batas maksimum hasil
+data_film = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_film)

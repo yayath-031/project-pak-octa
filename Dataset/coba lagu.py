@@ -1,1343 +1,1381 @@
 # Dataset lagu
 lagu = [
   {
-    "Judul": "Rindu Lukisan",
-    "Artis": ["Caldera", "Rei Naldy"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Rindu Lukisan",
+    "artis": ["Caldera", "Rei Naldy"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Pelangi di Matamu",
-    "Artis": ["Jamrud"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Pelangi di Matamu",
+    "artis": ["Jamrud"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Peri Cintaku",
-    "Artis": ["Marcell"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Peri Cintaku",
+    "artis": ["Marcell"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Cinta Luar Biasa",
-    "Artis": ["Andmesh Kamaleng"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Cinta Luar Biasa",
+    "artis": ["Andmesh Kamaleng"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Pupus",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Pupus",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Hati-Hati di Jalan",
-    "Artis": ["Tulus"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Hati-Hati di Jalan",
+    "artis": ["Tulus"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Surat Cinta Untuk Starla",
-    "Artis": ["Virgoun"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Surat Cinta Untuk Starla",
+    "artis": ["Virgoun"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Aku Lelakimu",
-    "Artis": ["Virzha"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Aku Lelakimu",
+    "artis": ["Virzha"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Terlalu Cinta",
-    "Artis": ["Rossa"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Terlalu Cinta",
+    "artis": ["Rossa"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Bukti",
-    "Artis": ["Virgoun"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Bukti",
+    "artis": ["Virgoun"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Blinding Lights",
-    "Artis": ["The Weeknd"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Blinding Lights",
+    "artis": ["The Weeknd"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Easy On Me",
-    "Artis": ["Adele"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Easy On Me",
+    "artis": ["Adele"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "As It Was",
-    "Artis": ["Harry Styles"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "As It Was",
+    "artis": ["Harry Styles"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Señorita",
-    "Artis": ["Shawn Mendes", "Camila Cabello"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Señorita",
+    "artis": ["Shawn Mendes", "Camila Cabello"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Stay",
-    "Artis": ["The Kid LAROI", "Justin Bieber"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Stay",
+    "artis": ["The Kid LAROI", "Justin Bieber"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Shivers",
-    "Artis": ["Ed Sheeran"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Shivers",
+    "artis": ["Ed Sheeran"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Levitating",
-    "Artis": ["Dua Lipa"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Levitating",
+    "artis": ["Dua Lipa"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Watermelon Sugar",
-    "Artis": ["Harry Styles"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Watermelon Sugar",
+    "artis": ["Harry Styles"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Peaches",
-    "Artis": ["Justin Bieber", "Daniel Caesar", "Giveon"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Peaches",
+    "artis": ["Justin Bieber", "Daniel Caesar", "Giveon"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Ghost",
-    "Artis": ["Justin Bieber"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Ghost",
+    "artis": ["Justin Bieber"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Tentang Rasa",
-    "Artis": ["Astrid"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Tentang Rasa",
+    "artis": ["Astrid"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Tetap Dalam Jiwa",
-    "Artis": ["Isyana Sarasvati"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Tetap Dalam Jiwa",
+    "artis": ["Isyana Sarasvati"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Mungkin",
-    "Artis": ["Potret"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Mungkin",
+    "artis": ["Potret"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Sampai Jadi Debu",
-    "Artis": ["Banda Neira"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie"]
+    "judul": "Sampai Jadi Debu",
+    "artis": ["Banda Neira"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie"]
   },
   {
-    "Judul": "Kisah Romantis",
-    "Artis": ["Glenn Fredly"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Kisah Romantis",
+    "artis": ["Glenn Fredly"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Rindu",
-    "Artis": ["Agnes Monica"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Rindu",
+    "artis": ["Agnes Monica"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Jangan Cintai Aku Apa Adanya",
-    "Artis": ["Tulus"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Jangan Cintai Aku Apa Adanya",
+    "artis": ["Tulus"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Harus Terpisah",
-    "Artis": ["Cakra Khan"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Harus Terpisah",
+    "artis": ["Cakra Khan"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Bahasa Kalbu",
-    "Artis": ["Raisa"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Bahasa Kalbu",
+    "artis": ["Raisa"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Cinta Karena Cinta",
-    "Artis": ["Judika"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Pop"]
+    "judul": "Cinta Karena Cinta",
+    "artis": ["Judika"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Perfect",
-    "Artis": ["Ed Sheeran"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Perfect",
+    "artis": ["Ed Sheeran"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Someone You Loved",
-    "Artis": ["Lewis Capaldi"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Someone You Loved",
+    "artis": ["Lewis Capaldi"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Shape of You",
-    "Artis": ["Ed Sheeran"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Shape of You",
+    "artis": ["Ed Sheeran"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Love Me Like You Do",
-    "Artis": ["Ellie Goulding"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Love Me Like You Do",
+    "artis": ["Ellie Goulding"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Bad Guy",
-    "Artis": ["Billie Eilish"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Bad Guy",
+    "artis": ["Billie Eilish"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "What Makes You Beautiful",
-    "Artis": ["One Direction"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "What Makes You Beautiful",
+    "artis": ["One Direction"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Sorry",
-    "Artis": ["Justin Bieber"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Sorry",
+    "artis": ["Justin Bieber"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Everything I Wanted",
-    "Artis": ["Billie Eilish"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Everything I Wanted",
+    "artis": ["Billie Eilish"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Let Her Go",
-    "Artis": ["Passenger"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "Let Her Go",
+    "artis": ["Passenger"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "When I Was Your Man",
-    "Artis": ["Bruno Mars"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Pop"]
+    "judul": "When I Was Your Man",
+    "artis": ["Bruno Mars"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Pop"]
   },
   {
-    "Judul": "Lathi",
-    "Artis": ["Weird Genius", "Sara Fajira"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Lathi",
+    "artis": ["Weird Genius", "Sara Fajira"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Hanya Rindu (Rap Version)",
-    "Artis": ["Andmesh Kamaleng"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Hanya Rindu (Rap Version)",
+    "artis": ["Andmesh Kamaleng"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Adu Rayu",
-    "Artis": ["Yovie & Nuno", "Tulus", "Glenn Fredly"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Adu Rayu",
+    "artis": ["Yovie & Nuno", "Tulus", "Glenn Fredly"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Pura-Pura Lupa (Remix)",
-    "Artis": ["Mahen", "Kashmi"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Pura-Pura Lupa (Remix)",
+    "artis": ["Mahen", "Kashmi"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Rapuh",
-    "Artis": ["Opick"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Rapuh",
+    "artis": ["Opick"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Beraksi",
-    "Artis": ["Kotak"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Beraksi",
+    "artis": ["Kotak"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Firasat",
-    "Artis": ["Marcell"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Firasat",
+    "artis": ["Marcell"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Coba Katakan",
-    "Artis": ["Iwa K"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Coba Katakan",
+    "artis": ["Iwa K"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Sakitnya Tuh Di Sini",
-    "Artis": ["Cita Citata"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Sakitnya Tuh Di Sini",
+    "artis": ["Cita Citata"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Cinta Ini Membunuhku",
-    "Artis": ["D'Masiv"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Cinta Ini Membunuhku",
+    "artis": ["D'Masiv"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Sicko Mode",
-    "Artis": ["Travis Scott"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Sicko Mode",
+    "artis": ["Travis Scott"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "God's Plan",
-    "Artis": ["Drake"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "God's Plan",
+    "artis": ["Drake"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Money Trees",
-    "Artis": ["Kendrick Lamar"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Money Trees",
+    "artis": ["Kendrick Lamar"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "HUMBLE.",
-    "Artis": ["Kendrick Lamar"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "HUMBLE.",
+    "artis": ["Kendrick Lamar"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Laugh Now Cry Later",
-    "Artis": ["Drake", "Lil Durk"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Laugh Now Cry Later",
+    "artis": ["Drake", "Lil Durk"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Goosebumps",
-    "Artis": ["Travis Scott"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Goosebumps",
+    "artis": ["Travis Scott"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Life Is Good",
-    "Artis": ["Future", "Drake"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Life Is Good",
+    "artis": ["Future", "Drake"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Rockstar",
-    "Artis": ["DaBaby", "Roddy Ricch"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Rockstar",
+    "artis": ["DaBaby", "Roddy Ricch"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Hotline Bling",
-    "Artis": ["Drake"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "Hotline Bling",
+    "artis": ["Drake"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "No Role Modelz",
-    "Artis": ["J. Cole"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Hip Hop", "Rap"]
+    "judul": "No Role Modelz",
+    "artis": ["J. Cole"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Hip Hop", "Rap"]
   },
   {
-    "Judul": "Separuh Nafas",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Separuh Nafas",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Taman Langit",
-    "Artis": ["Peterpan"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Taman Langit",
+    "artis": ["Peterpan"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Seberapa Pantas",
-    "Artis": ["Sheila On 7"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Seberapa Pantas",
+    "artis": ["Sheila On 7"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Bintang di Surga",
-    "Artis": ["Peterpan"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Bintang di Surga",
+    "artis": ["Peterpan"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Roman Picisan",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Roman Picisan",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Sempurna",
-    "Artis": ["Andra and The Backbone"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Sempurna",
+    "artis": ["Andra and The Backbone"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Mimpi Yang Sempurna",
-    "Artis": ["Peterpan"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Mimpi Yang Sempurna",
+    "artis": ["Peterpan"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Terbang",
-    "Artis": ["Kotak"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Terbang",
+    "artis": ["Kotak"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Kangen",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "Kangen",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "J.A.P",
-    "Artis": ["Superman Is Dead"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Rock"]
+    "judul": "J.A.P",
+    "artis": ["Superman Is Dead"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Bohemian Rhapsody",
-    "Artis": ["Queen"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Bohemian Rhapsody",
+    "artis": ["Queen"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Smells Like Teen Spirit",
-    "Artis": ["Nirvana"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Smells Like Teen Spirit",
+    "artis": ["Nirvana"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Hotel California",
-    "Artis": ["Eagles"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Hotel California",
+    "artis": ["Eagles"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Sweet Child O' Mine",
-    "Artis": ["Guns N' Roses"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Sweet Child O' Mine",
+    "artis": ["Guns N' Roses"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Another One Bites The Dust",
-    "Artis": ["Queen"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Another One Bites The Dust",
+    "artis": ["Queen"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Wonderwall",
-    "Artis": ["Oasis"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Wonderwall",
+    "artis": ["Oasis"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Enter Sandman",
-    "Artis": ["Metallica"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Enter Sandman",
+    "artis": ["Metallica"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Dream On",
-    "Artis": ["Aerosmith"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Dream On",
+    "artis": ["Aerosmith"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Don't Stop Believin'",
-    "Artis": ["Journey"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "Don't Stop Believin'",
+    "artis": ["Journey"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "November Rain",
-    "Artis": ["Guns N' Roses"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Rock"]
+    "judul": "November Rain",
+    "artis": ["Guns N' Roses"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Rock"]
   },
   {
-    "Judul": "Lathi",
-    "Artis": ["Weird Genius", "Sara Fajira"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Lathi",
+    "artis": ["Weird Genius", "Sara Fajira"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Selaras",
-    "Artis": ["Dipha Barus", "Monica Karina"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Selaras",
+    "artis": ["Dipha Barus", "Monica Karina"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "No One Can Stop Us",
-    "Artis": ["Angger Dimas"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "No One Can Stop Us",
+    "artis": ["Angger Dimas"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Morning Sun",
-    "Artis": ["Diskopantera"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Morning Sun",
+    "artis": ["Diskopantera"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "On My Way (Weird Genius Remix)",
-    "Artis": ["Weird Genius", "Sorn"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "On My Way (Weird Genius Remix)",
+    "artis": ["Weird Genius", "Sorn"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Be Alright",
-    "Artis": ["Dipha Barus", "Nadin"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Be Alright",
+    "artis": ["Dipha Barus", "Nadin"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Tiba-Tiba",
-    "Artis": ["Soundwave"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Tiba-Tiba",
+    "artis": ["Soundwave"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Jangan Kau Lepas",
-    "Artis": ["GAC"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Jangan Kau Lepas",
+    "artis": ["GAC"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Call Me Anytime",
-    "Artis": ["Jevin Julian"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Call Me Anytime",
+    "artis": ["Jevin Julian"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Into You",
-    "Artis": ["GAC"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["EDM"]
+    "judul": "Into You",
+    "artis": ["GAC"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Wake Me Up",
-    "Artis": ["Avicii"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Wake Me Up",
+    "artis": ["Avicii"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Clarity",
-    "Artis": ["Zedd", "Foxes"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Clarity",
+    "artis": ["Zedd", "Foxes"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Animals",
-    "Artis": ["Martin Garrix"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Animals",
+    "artis": ["Martin Garrix"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul":
+    "judul":
 
  "Faded",
-    "Artis": ["Alan Walker"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "artis": ["Alan Walker"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Don't You Worry Child",
-    "Artis": ["Swedish House Mafia"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Don't You Worry Child",
+    "artis": ["Swedish House Mafia"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Summer",
-    "Artis": ["Calvin Harris"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Summer",
+    "artis": ["Calvin Harris"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Lean On",
-    "Artis": ["Major Lazer", "DJ Snake", "MØ"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Lean On",
+    "artis": ["Major Lazer", "DJ Snake", "MØ"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "The Middle",
-    "Artis": ["Zedd", "Maren Morris", "Grey"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "The Middle",
+    "artis": ["Zedd", "Maren Morris", "Grey"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Stay The Night",
-    "Artis": ["Zedd", "Hayley Williams"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Stay The Night",
+    "artis": ["Zedd", "Hayley Williams"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Scared To Be Lonely",
-    "Artis": ["Martin Garrix", "Dua Lipa"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["EDM"]
+    "judul": "Scared To Be Lonely",
+    "artis": ["Martin Garrix", "Dua Lipa"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["EDM"]
   },
   {
-    "Judul": "Vivir Sin Ti",
-    "Artis": ["Anggun C. Sasmi"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Vivir Sin Ti",
+    "artis": ["Anggun C. Sasmi"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Despacito (Bahasa Indonesia Version)",
-    "Artis": ["Alffy Rev"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Despacito (Bahasa Indonesia Version)",
+    "artis": ["Alffy Rev"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Pecinta Wanita",
-    "Artis": ["Irwansyah"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Pecinta Wanita",
+    "artis": ["Irwansyah"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Aku Pasti Kembali",
-    "Artis": ["Pasto"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Aku Pasti Kembali",
+    "artis": ["Pasto"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Bukan Dia Tapi Aku",
-    "Artis": ["Judika"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Bukan Dia Tapi Aku",
+    "artis": ["Judika"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Bahasa Kalbu",
-    "Artis": ["Raisa"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Bahasa Kalbu",
+    "artis": ["Raisa"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Biarlah",
-    "Artis": ["Nidji"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Biarlah",
+    "artis": ["Nidji"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Cinta Terbaik",
-    "Artis": ["Cassandra"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Cinta Terbaik",
+    "artis": ["Cassandra"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Mantan Terindah",
-    "Artis": ["Raisa"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Mantan Terindah",
+    "artis": ["Raisa"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Takkan Terganti",
-    "Artis": ["Kahitna"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Latin Music"]
+    "judul": "Takkan Terganti",
+    "artis": ["Kahitna"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Despacito",
-    "Artis": ["Luis Fonsi", "Daddy Yankee"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Despacito",
+    "artis": ["Luis Fonsi", "Daddy Yankee"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Bailando",
-    "Artis": ["Enrique Iglesias"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Bailando",
+    "artis": ["Enrique Iglesias"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Hawái",
-    "Artis": ["Maluma"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Hawái",
+    "artis": ["Maluma"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Vivir Mi Vida",
-    "Artis": ["Marc Anthony"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Vivir Mi Vida",
+    "artis": ["Marc Anthony"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Dákiti",
-    "Artis": ["Bad Bunny", "Jhay Cortez"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Dákiti",
+    "artis": ["Bad Bunny", "Jhay Cortez"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Con Calma",
-    "Artis": ["Daddy Yankee", "Snow"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Con Calma",
+    "artis": ["Daddy Yankee", "Snow"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Mi Gente",
-    "Artis": ["J Balvin", "Willy William"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Mi Gente",
+    "artis": ["J Balvin", "Willy William"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Tusa",
-    "Artis": ["Karol G", "Nicki Minaj"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Tusa",
+    "artis": ["Karol G", "Nicki Minaj"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "La Modelo",
-    "Artis": ["Ozuna", "Cardi B"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "La Modelo",
+    "artis": ["Ozuna", "Cardi B"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Felices los 4",
-    "Artis": ["Maluma"],
-    "Bahasa": ["Bahasa Spanyol"],
-    "Genre": ["Latin Music"]
+    "judul": "Felices los 4",
+    "artis": ["Maluma"],
+    "bahasa": ["Bahasa Spanyol"],
+    "genre": ["Latin Music"]
   },
   {
-    "Judul": "Akad",
-    "Artis": ["Payung Teduh"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Akad",
+    "artis": ["Payung Teduh"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Kasih Tak Sampai",
-    "Artis": ["Padi"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Kasih Tak Sampai",
+    "artis": ["Padi"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Terlalu Lama Sendiri",
-    "Artis": ["Kunto Aji"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Terlalu Lama Sendiri",
+    "artis": ["Kunto Aji"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Karena Ku Cinta Kau",
-    "Artis": ["Bunga Citra Lestari"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Karena Ku Cinta Kau",
+    "artis": ["Bunga Citra Lestari"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Kekasih Bayangan",
-    "Artis": ["Cakra Khan"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Kekasih Bayangan",
+    "artis": ["Cakra Khan"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Takkan Ada Cinta Yang Lain",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Takkan Ada Cinta Yang Lain",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Jangan",
-    "Artis": ["Marion Jola"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Jangan",
+    "artis": ["Marion Jola"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Adu Rayu",
-    "Artis": ["Yovie & Nuno", "Glenn Fredly", "Tulus"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Adu Rayu",
+    "artis": ["Yovie & Nuno", "Glenn Fredly", "Tulus"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Cinta Dan Rahasia",
-    "Artis": ["Yura Yunita", "Glenn Fredly"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Cinta Dan Rahasia",
+    "artis": ["Yura Yunita", "Glenn Fredly"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Harus Bahagia",
-    "Artis": ["Yura Yunita"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["RnB"]
+    "judul": "Harus Bahagia",
+    "artis": ["Yura Yunita"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Blinding Lights",
-    "Artis": ["The Weeknd"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Blinding Lights",
+    "artis": ["The Weeknd"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "No Guidance",
-    "Artis": ["Chris Brown", "Drake"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "No Guidance",
+    "artis": ["Chris Brown", "Drake"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Heartbreak Anniversary",
-    "Artis": ["Giveon"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Heartbreak Anniversary",
+    "artis": ["Giveon"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Leave The Door Open",
-    "Artis": ["Bruno Mars", "Anderson .Paak", "Silk Sonic"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Leave The Door Open",
+    "artis": ["Bruno Mars", "Anderson .Paak", "Silk Sonic"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Best Part",
-    "Artis": ["Daniel Caesar", "H.E.R."],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Best Part",
+    "artis": ["Daniel Caesar", "H.E.R."],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Good Days",
-    "Artis": ["SZA"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Good Days",
+    "artis": ["SZA"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Damage",
-    "Artis": ["H.E.R."],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Damage",
+    "artis": ["H.E.R."],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Positions",
-    "Artis": ["Ariana Grande"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Positions",
+    "artis": ["Ariana Grande"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Talk",
-    "Artis": ["Khalid"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Talk",
+    "artis": ["Khalid"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Come Through",
-    "Artis": ["H.E.R.", "Chris Brown"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["RnB"]
+    "judul": "Come Through",
+    "artis": ["H.E.R.", "Chris Brown"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["RnB"]
   },
   {
-    "Judul": "Cinta Sejati (Korean Version)",
-    "Artis": ["Bunga Citra Lestari"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Cinta Sejati (Korean Version)",
+    "artis": ["Bunga Citra Lestari"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Andai Aku Bisa",
-    "Artis": ["Noah"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Andai Aku Bisa",
+    "artis": ["Noah"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Yang Terdalam",
-    "Artis": ["Noah"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Yang Terdalam",
+    "artis": ["Noah"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Hati Yang Kau Sakiti (Korean Version)",
-    "Artis": ["Rossa"],
-    "Bahasa": ["Bahasa Indonesia", "Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Hati Yang Kau Sakiti (Korean Version)",
+    "artis": ["Rossa"],
+    "bahasa": ["Bahasa Indonesia", "Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Hargai Aku",
-    "Artis": ["Armada"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Hargai Aku",
+    "artis": ["Armada"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Aku Yang Tersakiti",
-    "Artis": ["Judika"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Aku Yang Tersakiti",
+    "artis": ["Judika"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Seandainya",
-    "Artis": ["Vierra"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Seandainya",
+    "artis": ["Vierra"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Terlatih Patah Hati",
-    "Artis": ["The Rain", "Endank Soekamti"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Terlatih Patah Hati",
+    "artis": ["The Rain", "Endank Soekamti"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Galau",
-    "Artis": ["Yovie & Nuno"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Galau",
+    "artis": ["Yovie & Nuno"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Hari Bersamanya",
-    "Artis": ["Sheila On 7"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["K-Pop"]
+    "judul": "Hari Bersamanya",
+    "artis": ["Sheila On 7"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Butter",
-    "Artis": ["BTS"],
-    "Bahasa": ["Bahasa Korea", "Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "Butter",
+    "artis": ["BTS"],
+    "bahasa": ["Bahasa Korea", "Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Dynamite",
-    "Artis": ["BTS"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "Dynamite",
+    "artis": ["BTS"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "How You Like That",
-    "Artis": ["BLACKPINK"],
-    "Bahasa": ["Bahasa Korea", "Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "How You Like That",
+    "artis": ["BLACKPINK"],
+    "bahasa": ["Bahasa Korea", "Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Lovesick Girls",
-    "Artis": ["BLACKPINK"],
-    "Bahasa": ["Bahasa Korea", "Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "Lovesick Girls",
+    "artis": ["BLACKPINK"],
+    "bahasa": ["Bahasa Korea", "Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Psycho",
-    "Artis": ["Red Velvet"],
-    "Bahasa": ["Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Psycho",
+    "artis": ["Red Velvet"],
+    "bahasa": ["Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Boy With Luv",
-    "Artis": ["BTS", "Halsey"],
-    "Bahasa": ["Bahasa Korea", "Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "Boy With Luv",
+    "artis": ["BTS", "Halsey"],
+    "bahasa": ["Bahasa Korea", "Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Ice Cream",
-    "Artis": ["BLACKPINK", "Selena Gomez"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["K-Pop"]
+    "judul": "Ice Cream",
+    "artis": ["BLACKPINK", "Selena Gomez"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Don't Fight The Feeling",
-    "Artis": ["EXO"],
-    "Bahasa": ["Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Don't Fight The Feeling",
+    "artis": ["EXO"],
+    "bahasa": ["Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Alcohol-Free",
-    "Artis": ["TWICE"],
-    "Bahasa": ["Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Alcohol-Free",
+    "artis": ["TWICE"],
+    "bahasa": ["Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Fake Love",
-    "Artis": ["BTS"],
-    "Bahasa": ["Bahasa Korea"],
-    "Genre": ["K-Pop"]
+    "judul": "Fake Love",
+    "artis": ["BTS"],
+    "bahasa": ["Bahasa Korea"],
+    "genre": ["K-Pop"]
   },
   {
-    "Judul": "Jatuh Cinta",
-    "Artis": ["Judika"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Jatuh Cinta",
+    "artis": ["Judika"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Sudah",
-    "Artis": ["Ardhito Pramono"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Sudah",
+    "artis": ["Ardhito Pramono"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Rindu",
-    "Artis": ["Kerispatih"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Rindu",
+    "artis": ["Kerispatih"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Satu Hati Sampai Mati",
-    "Artis": ["Thomas Arya"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Satu Hati Sampai Mati",
+    "artis": ["Thomas Arya"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Merindukanmu",
-    "Artis": ["Dash Uciha"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Merindukanmu",
+    "artis": ["Dash Uciha"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Jikalau Kau Cinta",
-    "Artis": ["Judika"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Jikalau Kau Cinta",
+    "artis": ["Judika"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Sampai Jadi Debu",
-    "Artis": ["Banda Neira"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Sampai Jadi Debu",
+    "artis": ["Banda Neira"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Kamu dan Kenangan",
-    "Artis": ["Maudy Ayunda"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Kamu dan Kenangan",
+    "artis": ["Maudy Ayunda"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Pergilah Kasih",
-    "Artis": ["Chrisye"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Pergilah Kasih",
+    "artis": ["Chrisye"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Akhir Cerita Cinta",
-    "Artis": ["Glenn Fredly"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Country"]
+    "judul": "Akhir Cerita Cinta",
+    "artis": ["Glenn Fredly"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "I Hope",
-    "Artis": ["Gabby Barrett"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "I Hope",
+    "artis": ["Gabby Barrett"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Speechless",
-    "Artis": ["Dan + Shay"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Speechless",
+    "artis": ["Dan + Shay"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Tennessee Whiskey",
-    "Artis": ["Chris Stapleton"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Tennessee Whiskey",
+    "artis": ["Chris Stapleton"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Before He Cheats",
-    "Artis": ["Carrie Underwood"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Before He Cheats",
+    "artis": ["Carrie Underwood"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Old Town Road",
-    "Artis": ["Lil Nas X", "Billy Ray Cyrus"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Old Town Road",
+    "artis": ["Lil Nas X", "Billy Ray Cyrus"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Die A Happy Man",
-    "Artis": ["Thomas Rhett"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Die A Happy Man",
+    "artis": ["Thomas Rhett"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Jolene",
-    "Artis": ["Dolly Parton"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Jolene",
+    "artis": ["Dolly Parton"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "10,000 Hours",
-    "Artis": ["Dan + Shay", "Justin Bieber"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "10,000 Hours",
+    "artis": ["Dan + Shay", "Justin Bieber"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Beer Never Broke My Heart",
-    "Artis": ["Luke Combs"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "Beer Never Broke My Heart",
+    "artis": ["Luke Combs"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "God's Country",
-    "Artis": ["Blake Shelton"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Country"]
+    "judul": "God's Country",
+    "artis": ["Blake Shelton"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Country"]
   },
   {
-    "Judul": "Beraksi",
-    "Artis": ["Kotak"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Beraksi",
+    "artis": ["Kotak"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Musnah",
-    "Artis": ["Andra and the Backbone"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Musnah",
+    "artis": ["Andra and the Backbone"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "J.A.P",
-    "Artis": ["Superman Is Dead"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "J.A.P",
+    "artis": ["Superman Is Dead"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Mati Aku Mati",
-    "Artis": ["Burgerkill"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Mati Aku Mati",
+    "artis": ["Burgerkill"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Kembali",
-    "Artis": ["Boomerang"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Kembali",
+    "artis": ["Boomerang"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "NgeRock",
-    "Artis": ["Jamrud"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "NgeRock",
+    "artis": ["Jamrud"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Semangat Yang Hilang",
-    "Artis": ["Jamrud"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Semangat Yang Hilang",
+    "artis": ["Jamrud"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Terbang Tenggelam",
-    "Artis": ["Burgerkill"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Terbang Tenggelam",
+    "artis": ["Burgerkill"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Luka",
-    "Artis": ["Power Metal"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Luka",
+    "artis": ["Power Metal"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Kamulah Satu-Satunya",
-    "Artis": ["Dewa 19"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Metal"]
+    "judul": "Kamulah Satu-Satunya",
+    "artis": ["Dewa 19"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Master of Puppets",
-    "Artis": ["Metallica"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Master of Puppets",
+    "artis": ["Metallica"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Enter Sandman",
-    "Artis": ["Metallica"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Enter Sandman",
+    "artis": ["Metallica"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "War Pigs",
-    "Artis": ["Black Sabbath"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "War Pigs",
+    "artis": ["Black Sabbath"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Paranoid",
-    "Artis": ["Black Sabbath"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Paranoid",
+    "artis": ["Black Sabbath"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Painkiller",
-    "Artis": ["Judas Priest"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Painkiller",
+    "artis": ["Judas Priest"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Raining Blood",
-    "Artis": ["Slayer"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Raining Blood",
+    "artis": ["Slayer"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Walk",
-    "Artis": ["Pantera"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Walk",
+    "artis": ["Pantera"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Holy Wars... The Punishment Due",
-    "Artis": ["Megadeth"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Holy Wars... The Punishment Due",
+    "artis": ["Megadeth"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Chop Suey!",
-    "Artis": ["System of a Down"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Chop Suey!",
+    "artis": ["System of a Down"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Cowboys from Hell",
-    "Artis": ["Pantera"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Metal"]
+    "judul": "Cowboys from Hell",
+    "artis": ["Pantera"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Metal"]
   },
   {
-    "Judul": "Akad",
-    "Artis": ["Payung Teduh"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Akad",
+    "artis": ["Payung Teduh"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Fluktuasi Glukosa",
-    "Artis": ["FSTVLST"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Fluktuasi Glukosa",
+    "artis": ["FSTVLST"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Candu Asmara",
-    "Artis": ["Reality Club"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Candu Asmara",
+    "artis": ["Reality Club"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Sisa Rasa",
-    "Artis": ["Mahalini"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Sisa Rasa",
+    "artis": ["Mahalini"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Pria Tampan",
-    "Artis": ["HIVI!"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Pria Tampan",
+    "artis": ["HIVI!"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Gadis Sampul",
-    "Artis": ["Efek Rumah Kaca"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Gadis Sampul",
+    "artis": ["Efek Rumah Kaca"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Sore Tugu Pancoran",
-    "Artis": ["Banda Neira"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Sore Tugu Pancoran",
+    "artis": ["Banda Neira"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Ruang Sendiri",
-    "Artis": ["Tulus"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Ruang Sendiri",
+    "artis": ["Tulus"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Menjadi Milikku",
-    "Artis": ["Sheila on 7"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Menjadi Milikku",
+    "artis": ["Sheila on 7"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Dekat di Hati",
-    "Artis": ["RAN"],
-    "Bahasa": ["Bahasa Indonesia"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Dekat di Hati",
+    "artis": ["RAN"],
+    "bahasa": ["Bahasa Indonesia"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Sweater Weather",
-    "Artis": ["The Neighbourhood"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Sweater Weather",
+    "artis": ["The Neighbourhood"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Electric Feel",
-    "Artis": ["MGMT"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Electric Feel",
+    "artis": ["MGMT"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Somebody Else",
-    "Artis": ["The 1975"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Somebody Else",
+    "artis": ["The 1975"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Dog Days Are Over",
-    "Artis": ["Florence + The Machine"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Dog Days Are Over",
+    "artis": ["Florence + The Machine"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Take Me Out",
-    "Artis": ["Franz Ferdinand"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Take Me Out",
+    "artis": ["Franz Ferdinand"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Fluorescent Adolescent",
-    "Artis": ["Arctic Monkeys"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Fluorescent Adolescent",
+    "artis": ["Arctic Monkeys"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Pumped Up Kicks",
-    "Artis": ["Foster The People"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Pumped Up Kicks",
+    "artis": ["Foster The People"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "R U Mine?",
-    "Artis": ["Arctic Monkeys"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "R U Mine?",
+    "artis": ["Arctic Monkeys"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Young Folks",
-    "Artis": ["Peter Bjorn and John"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Young Folks",
+    "artis": ["Peter Bjorn and John"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   },
   {
-    "Judul": "Do I Wanna Know?",
-    "Artis": ["Arctic Monkeys"],
-    "Bahasa": ["Bahasa Inggris"],
-    "Genre": ["Indie", "Alternative"]
+    "judul": "Do I Wanna Know?",
+    "artis": ["Arctic Monkeys"],
+    "bahasa": ["Bahasa Inggris"],
+    "genre": ["Indie", "Alternative"]
   }
 ]
 
-def tarik_data_berdasarkan_kriteria(kriteria, nilai):
+# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
+#     hasil = []
+    
+#     for item in lagu:
+#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+#             hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
+    
+#     if hasil:
+#         return "\n".join(hasil)
+#     else:
+#         return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
+# data_lagu = tarik_data_berdasarkan_kriteria(genre, pop)
+# print(data_lagu)
+
+
+# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
+#     hasil = []
+    
+#     for item in lagu:
+#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+#             hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
+    
+#     if hasil:
+#         return "\n".join(hasil)
+#     else:
+#         return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
+
+# Contoh penggunaan
+# kriteria = "genre"
+# nilai = "Indie"
+# data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai)
+# print(data_lagu)
+
+def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
     hasil = []
+    hitung = 0
     
     for item in lagu:
-        if nilai.lower() in [x.lower() for x in item.get(kriteria, [])]:  
-            hasil.append(f'{item["Judul"]} - {", ".join(item["Artis"])}')
+        if hitung >= batas:
+            break  # Hentikan jika sudah mencapai batas
+        if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+            hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
+            hitung += 1  # Tambah penghitung jika lagu dengan genre yang diinginkan ditemukan
     
     if hasil:
         return "\n".join(hasil)
     else:
-        return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".'
+        return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
 
-kriteria = input("Masukkan kriteria (Genre, Artis, Bahasa): ").capitalize()  
-nilai = input(f"Masukkan nilai yang ingin dicari untuk {kriteria}: ")  
-
-data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai)
+# Contoh penggunaan
+kriteria = "genre"
+nilai = "Indie"
+batas = 5  # Menentukan batas maksimum hasil
+data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_lagu)

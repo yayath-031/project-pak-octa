@@ -618,8 +618,8 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
         return f'Tidak ada novel yang ditemukan dengan {kriteria} "{nilai}".'
 
 
-kriteria = "genre"
-nilai = "romance"
+kriteria = "penulis"
+nilai = "tere liye"
 batas = 5  # Menentukan batas maksimum hasil
 data_novel = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_novel)

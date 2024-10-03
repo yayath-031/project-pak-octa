@@ -1049,6 +1049,384 @@ film = [
         "genre": ["Romance", "Fantasy"],
         "tahun terbit": "2009",
         "bahasa": ["Bahasa Inggris"]
+    },
+    {
+        "judul": "Princess Mononoke",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Action", "Environmental", "Adventure", "Drama"],
+        "tahun terbit": "1997",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Howl's Moving Castle",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Romance", "Adventure", "Drama"],
+        "tahun terbit": "2004",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "My Neighbor Totoro",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Slice of Life", "Comedy", "Family", "Coming-of-Age"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Tale of the Princess Kaguya",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Drama", "Historical", "Folklore", "Coming-of-Age"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Secret World of Arrietty",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Adventure", "Slice of Life", "Drama"],
+        "tahun terbit": "2010",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Ponyo",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Family", "Adventure", "Comedy"],
+        "tahun terbit": "2008",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Mary and The Witch's Flower",
+        "studio": "Studio Ponoc",
+        "subgenre": ["Fantasy", "Adventure", "Magic", "Coming-of-Age"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Children Who Chase Lost Voices",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Fantasy", "Adventure", "Romance", "Mystery", "Drama"],
+        "tahun terbit": "2011",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Deer King",
+        "studio": "Production I.G",
+        "subgenre": ["Fantasy", "Action", "Adventure", "Drama", "Post-Apocalyptic"],
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Belle",
+        "studio": "Studio Chizu",
+        "subgenre": ["Fantasy", "Music", "Drama", "Romance", "Sci-Fi"],
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Cat Returns",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Adventure", "Comedy", "Romance"],
+        "tahun terbit": "2002",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Nausicaä of the Valley of the Wind",
+        "studio": "Topcraft",
+        "subgenre": ["Fantasy", "Sci-Fi", "Adventure", "Environmental"],
+        "tahun terbit": "1984",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "When Marnie Was There",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Fantasy", "Mystery", "Drama", "Slice of Life"],
+        "tahun terbit": "2014",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Patema Inverted",
+        "studio": "Purple Cow Studio Japan",
+        "subgenre": ["Fantasy", "Sci-Fi", "Adventure", "Romance", "Psychological"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Your Name",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Romance", "Fantasy", "Drama", "Supernatural"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "A Silent Voice",
+        "studio": "Kyoto Animation",
+        "subgenre": ["Romance", "Drama", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "5 Centimeters per Second",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2007",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Anthem of the Heart",
+        "studio": "A-1 Pictures",
+        "subgenre": ["Romance", "Drama", "Slice of Life", "Music"],
+        "tahun terbit": "2015",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Garden of Words",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "I Want to Eat Your Pancreas",
+        "studio": "Studio VOLN",
+        "subgenre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Josee, the Tiger and the Fish",
+        "studio": "Bones",
+        "subgenre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Fireworks",
+        "studio": "Shaft",
+        "subgenre": ["Romance", "Fantasy", "Drama"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Whisper of the Heart",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Romance", "Drama", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "1995",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Place Promised in Our Early Days",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Romance", "Sci-Fi", "Drama"],
+        "tahun terbit": "2004",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Grave of the Fireflies",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Drama", "War", "Historical", "Tragedy"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Wind Rises",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Drama", "Historical", "Romance", "War"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Wolf Children",
+        "studio": "Studio Chizu",
+        "subgenre": ["Drama", "Fantasy", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "2012",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "In This Corner of the World",
+        "studio": "MAPPA",
+        "subgenre": ["Drama", "Historical", "War", "Slice of Life"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Tokyo Godfathers",
+        "studio": "Madhouse",
+        "subgenre": ["Drama", "Comedy", "Slice of Life"],
+        "tahun terbit": "2003",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Millennium Actress",
+        "studio": "Madhouse",
+        "subgenre": ["Drama", "Romance", "Mystery", "Psychological"],
+        "tahun terbit": "2001",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Colorful",
+        "studio": "Sunrise",
+        "subgenre": ["Drama", "Psychological", "Supernatural"],
+        "tahun terbit": "2010",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Flavors of Youth",
+        "studio": "CoMix Wave Films",
+        "subgenre": ["Drama", "Romance", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Liz and the Blue Bird",
+        "studio": "Kyoto Animation",
+        "subgenre": ["Drama", "Music", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Violet Evergarden: The Movie",
+        "studio": "Kyoto Animation",
+        "subgenre": ["Drama", "Fantasy", "Slice of Life", "Romance"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Boy and the Beast",
+        "studio": "Studio Chizu",
+        "subgenre": ["Adventure", "Fantasy", "Action", "Coming-of-Age"],
+        "tahun terbit": "2015",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Girl Who Leapt Through Time",
+        "studio": "Madhouse",
+        "subgenre": ["Adventure", "Romance", "Drama", "Sci-Fi", "Comedy"],
+        "tahun terbit": "2006",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Made in Abyss: Dawn of the Deep Soul",
+        "studio": "Kinema Citrus",
+        "subgenre": ["Adventure", "Fantasy", "Sci-Fi", "Drama"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "One Piece: Stampede",
+        "studio": "Toei Animation",
+        "subgenre": ["Adventure", "Action", "Comedy", "Fantasy"],
+        "tahun terbit": "2019",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Redline",
+        "studio": "Madhouse",
+        "subgenre": ["Adventure", "Action", "Sci-Fi", "Racing"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Sword of the Stranger",
+        "studio": "Bones",
+        "subgenre": ["Adventure", "Action", "Historical", "Drama"],
+        "tahun terbit": "2007",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Lu Over the Wall",
+        "studio": "Science SARU",
+        "subgenre": ["Adventure", "Fantasy", "Comedy", "Music"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Escaflowne: The Movie",
+        "studio": "Sunrise",
+        "subgenre": ["Adventure", "Fantasy", "Romance", "Mecha"],
+        "tahun terbit": "2000",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Kiki’s Delivery Service",
+        "studio": "Studio Ghibli",
+        "subgenre": ["Adventure", "Fantasy", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "1989",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Penguin Highway",
+        "studio": "Studio Colorido",
+        "subgenre": ["Adventure", "Sci-Fi", "Comedy", "Coming-of-Age"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Akira",
+        "studio": "TMS Entertainment",
+        "subgenre": ["Sci-Fi", "Action", "Psychological", "Dystopian"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Ghost in the Shell",
+        "studio": "Production I.G",
+        "subgenre": ["Sci-Fi", "Cyberpunk", "Action", "Thriller"],
+        "tahun terbit": "1995",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Summer Wars",
+        "studio": "Madhouse",
+        "subgenre": ["Sci-Fi", "Adventure", "Comedy", "Family"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Paprika",
+        "studio": "Madhouse",
+        "subgenre": ["Sci-Fi", "Psychological", "Thriller", "Fantasy"],
+        "tahun terbit": "2006",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Neon Genesis Evangelion: The End of Evangelion",
+        "studio": "Gainax",
+        "subgenre": ["Sci-Fi", "Psychological", "Mecha", "Action"],
+        "tahun terbit": "1997",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Sword Art Online: Ordinal Scale",
+        "studio": "A-1 Pictures",
+        "subgenre": ["Sci-Fi", "Fantasy", "Action", "Romance"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Blame!",
+        "studio": "Polygon Pictures",
+        "subgenre": ["Sci-Fi", "Action", "Dystopian", "Adventure"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Macross: Do You Remember Love?",
+        "studio": "Tatsunoko Production",
+        "subgenre": ["Sci-Fi", "Romance", "Mecha", "Space Opera"],
+        "tahun terbit": "1984",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Mobile Suit Gundam: Char's Counterattack",
+        "studio": "Sunrise",
+        "subgenre": ["Sci-Fi", "Action", "Mecha", "Space Opera"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "King of Thorn",
+        "studio": "Sunrise",
+        "subgenre": ["Sci-Fi", "Horror", "Psychological", "Adventure"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
     }
 ]
 
@@ -1095,8 +1473,8 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
         return f'Tidak ada film yang ditemukan dengan {kriteria} "{nilai}".'
 
 # Contoh penggunaan
-kriteria = "genre"
-nilai = "Romance"
+kriteria = "Bahasa"
+nilai = "Bahasa Indonesia"
 batas = 5  # Menentukan batas maksimum hasil
 data_film = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_film)

@@ -1277,5 +1277,5 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
 kriteria = "genre"
 nilai = "action"
 batas = 5  # Menentukan batas maksimum hasil
-data_film = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_film)
+data_game = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
+print(data_game)

@@ -1273,11 +1273,9 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
     else:
         return f'Tidak ada game yang ditemukan dengan {kriteria} "{nilai}".' 
 
-# Mengambil input dari pengguna
-kriteria = input("Masukkan kriteria pencarian (misal: Genre, Developer, atau Tahun terbit): ")
-nilai = input(f"Masukkan nilai yang dicari dalam {kriteria}: ")
-batas = int(input("Masukkan batas maksimum hasil: "))
-
-# Menampilkan hasil
+# Contoh penggunaan
+kriteria = "genre"
+nilai = "action"
+batas = 5  # Menentukan batas maksimum hasil
 data_game = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_game)

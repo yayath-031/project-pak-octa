@@ -1375,7 +1375,7 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
 
 # Contoh penggunaan
 kriteria = "genre"
-nilai = "Indie"
+nilai = "pop"
 batas = 5  # Menentukan batas maksimum hasil
 data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
 print(data_lagu)

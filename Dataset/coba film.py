@@ -13,7 +13,7 @@ film = [
         "bahasa": ["Bahasa Indonesia"]
     },
     {
-        "judul": "Habibie & Madhy",
+        "judul": "Habibie & Ainun",
         "genre": ["Drama", "Romance"],
         "tahun terbit": "2012",
         "bahasa": ["Bahasa Indonesia"]

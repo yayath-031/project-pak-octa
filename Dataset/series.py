@@ -915,9 +915,3 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
     else:
         return f'Tidak ada data yang ditemukan dengan {kriteria} "{nilai}".' 
 
-# Contoh penggunaan
-kriteria = "bahasa"
-nilai = "bahasa indonesia"  # masukkan nilainya, contoh genre action, bahasa indonesia
-batas = 5  # Menentukan batas maksimum hasil
-data_series = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_series) 

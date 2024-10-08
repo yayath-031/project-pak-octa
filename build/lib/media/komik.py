@@ -723,6 +723,7 @@ komik = [
 ]
 
 def cari_komik(kriteria, nilai, batas):
+
     hasil = []
     hitung = 0
     
@@ -744,3 +745,4 @@ def cari_komik(kriteria, nilai, batas):
         return "\n".join(hasil)
     else:
         return f'Tidak ada komik yang ditemukan dengan {kriteria} "{nilai}".'
+

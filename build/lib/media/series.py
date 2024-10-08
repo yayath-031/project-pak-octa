@@ -896,6 +896,7 @@ series = [
     }
 ] 
 
+
 def cari_series(kriteria, nilai, batas):
     hasil = []
     hitung = 0
@@ -912,3 +913,4 @@ def cari_series(kriteria, nilai, batas):
         return "\n".join(hasil)
     else:
         return f'Tidak ada data yang ditemukan dengan {kriteria} "{nilai}".' 
+

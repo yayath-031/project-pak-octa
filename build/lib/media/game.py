@@ -1258,3 +1258,4 @@ def cari_game(kriteria, nilai, batas):
         return "\n".join(hasil)
     else:
         return f'Tidak ada game yang ditemukan dengan {kriteria} "{nilai}".'
+

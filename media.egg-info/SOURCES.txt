@@ -1,0 +1,13 @@
+README.md
+setup.py
+media/__init__.py
+media/film.py
+media/game.py
+media/komik.py
+media/lagu.py
+media/novel.py
+media/series.py
+media.egg-info/PKG-INFO
+media.egg-info/SOURCES.txt
+media.egg-info/dependency_links.txt
+media.egg-info/top_level.txt

@@ -1049,54 +1049,354 @@ film = [
         "genre": ["Romance", "Fantasy"],
         "tahun terbit": "2009",
         "bahasa": ["Bahasa Inggris"]
+    },
+    {
+        "judul": "Princess Mononoke",
+        "genre": ["Fantasy", "Action", "Environmental", "Adventure", "Drama"],
+        "tahun terbit": "1997",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Howl's Moving Castle",
+        "genre": ["Fantasy", "Romance", "Adventure", "Drama"],
+        "tahun terbit": "2004",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "My Neighbor Totoro",
+        "genre": ["Fantasy", "Slice of Life", "Comedy", "Family", "Coming-of-Age"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Tale of the Princess Kaguya",
+        "genre": ["Fantasy", "Drama", "Historical", "Folklore", "Coming-of-Age"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Secret World of Arrietty",
+        "genre": ["Fantasy", "Adventure", "Slice of Life", "Drama"],
+        "tahun terbit": "2010",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Ponyo",
+        "genre": ["Fantasy", "Family", "Adventure", "Comedy"],
+        "tahun terbit": "2008",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Mary and The Witch's Flower",
+        "genre": ["Fantasy", "Adventure", "Magic", "Coming-of-Age"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Children Who Chase Lost Voices",
+        "genre": ["Fantasy", "Adventure", "Romance", "Mystery", "Drama"],
+        "tahun terbit": "2011",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Deer King",
+        "genre": ["Fantasy", "Action", "Adventure", "Drama", "Post-Apocalyptic"],
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Belle",
+        "genre": ["Fantasy", "Music", "Drama", "Romance", "Sci-Fi"],
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Cat Returns",
+        "genre": ["Fantasy", "Adventure", "Comedy", "Romance"],
+        "tahun terbit": "2002",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Nausicaä of the Valley of the Wind",
+        "genre": ["Fantasy", "Sci-Fi", "Adventure", "Environmental"],
+        "tahun terbit": "1984",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "When Marnie Was There",
+        "genre": ["Fantasy", "Mystery", "Drama", "Slice of Life"],
+        "tahun terbit": "2014",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Patema Inverted",
+        "genre": ["Fantasy", "Sci-Fi", "Adventure", "Romance", "Psychological"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Your Name",
+        "genre": ["Romance", "Fantasy", "Drama", "Supernatural"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "A Silent Voice",
+        "genre": ["Romance", "Drama", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "5 Centimeters per Second",
+        "genre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2007",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Anthem of the Heart",
+        "genre": ["Romance", "Drama", "Slice of Life", "Music"],
+        "tahun terbit": "2015",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Garden of Words",
+        "genre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "I Want to Eat Your Pancreas",
+        "genre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Josee, the Tiger and the Fish",
+        "genre": ["Romance", "Drama", "Slice of Life"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Fireworks",
+        "genre": ["Romance", "Fantasy", "Drama"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Whisper of the Heart",
+        "genre": ["Romance", "Drama", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "1995",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Place Promised in Our Early Days",
+        "genre": ["Romance", "Sci-Fi", "Drama"],
+        "tahun terbit": "2004",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Grave of the Fireflies",
+        "genre": ["Drama", "War", "Historical", "Tragedy"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Wind Rises",
+        "genre": ["Drama", "Historical", "Romance", "War"],
+        "tahun terbit": "2013",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Wolf Children",
+        "genre": ["Drama", "Fantasy", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "2012",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "In This Corner of the World",
+        "genre": ["Drama", "Historical", "War", "Slice of Life"],
+        "tahun terbit": "2016",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Tokyo Godfathers",
+        "genre": ["Drama", "Comedy", "Slice of Life"],
+        "tahun terbit": "2003",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Millennium Actress",
+        "genre": ["Drama", "Romance", "Mystery", "Psychological"],
+        "tahun terbit": "2001",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Colorful",
+        "genre": ["Drama", "Psychological", "Supernatural"],
+        "tahun terbit": "2010",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Flavors of Youth",
+        "genre": ["Drama", "Romance", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Liz and the Blue Bird",
+        "genre": ["Drama", "Music", "Slice of Life"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Violet Evergarden: The Movie",
+        "genre": ["Drama", "Fantasy", "Slice of Life", "Romance"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Boy and the Beast",
+        "genre": ["Adventure", "Fantasy", "Action", "Coming-of-Age"],
+        "tahun terbit": "2015",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "The Girl Who Leapt Through Time",
+        "genre": ["Adventure", "Romance", "Drama", "Sci-Fi", "Comedy"],
+        "tahun terbit": "2006",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Made in Abyss: Dawn of the Deep Soul",
+        "genre": ["Adventure", "Fantasy", "Sci-Fi", "Drama"],
+        "tahun terbit": "2020",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "One Piece: Stampede",
+        "genre": ["Adventure", "Action", "Comedy", "Fantasy"],
+        "tahun terbit": "2019",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Redline",
+        "genre": ["Adventure", "Action", "Sci-Fi", "Racing"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Sword of the Stranger",
+        "genre": ["Adventure", "Action", "Historical", "Drama"],
+        "tahun terbit": "2007",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Lu Over the Wall",
+        "genre": ["Adventure", "Fantasy", "Comedy", "Music"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Escaflowne: The Movie",
+        "genre": ["Adventure", "Fantasy", "Romance", "Mecha"],
+        "tahun terbit": "2000",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Kiki’s Delivery Service",
+        "genre": ["Adventure", "Fantasy", "Slice of Life", "Coming-of-Age"],
+        "tahun terbit": "1989",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Penguin Highway",
+        "genre": ["Adventure", "Sci-Fi", "Comedy", "Coming-of-Age"],
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Akira",
+        "genre": ["Sci-Fi", "Action", "Psychological", "Dystopian"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Ghost in the Shell",
+        "genre": ["Sci-Fi", "Cyberpunk", "Action", "Thriller"],
+        "tahun terbit": "1995",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Summer Wars",
+        "genre": ["Sci-Fi", "Adventure", "Comedy", "Family"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Paprika",
+        "genre": ["Sci-Fi", "Psychological", "Thriller", "Fantasy"],
+        "tahun terbit": "2006",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Neon Genesis Evangelion: The End of Evangelion",
+        "genre": ["Sci-Fi", "Psychological", "Mecha", "Action"],
+        "tahun terbit": "1997",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Sword Art Online: Ordinal Scale",
+        "genre": ["Sci-Fi", "Fantasy", "Action", "Romance"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Blame!",
+        "genre": ["Sci-Fi", "Action", "Dystopian", "Adventure"],
+        "tahun terbit": "2017",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Macross: Do You Remember Love?",
+        "genre": ["Sci-Fi", "Romance", "Mecha", "Space Opera"],
+        "tahun terbit": "1984",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "Mobile Suit Gundam: Char's Counterattack",
+        "genre": ["Sci-Fi", "Action", "Mecha", "Space Opera"],
+        "tahun terbit": "1988",
+        "bahasa": ["Bahasa Jepang"]
+    },
+    {
+        "judul": "King of Thorn",
+        "genre": ["Sci-Fi", "Horror", "Psychological", "Adventure"],
+        "tahun terbit": "2009",
+        "bahasa": ["Bahasa Jepang"]
     }
 ]
 
-
-
-# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
-#     hasil = []
-    
-#     for item in film:
-#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-#             format_output = f'"{item["judul"]} ({", ".join(item["genre"])}) ({item["tahun terbit"]})"'
-#             hasil.append(format_output)
-    
-#     if hasil:
-#         return "\n".join(hasil)
-#     else:
-#         return f'Tidak ada film yang ditemukan dengan {kriteria} "{nilai}".'
-
-# data_film = tarik_data_berdasarkan_kriteria("Genre", "romance")
-# print(data_film)
-
-
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+def cari_film(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     
     for item in film:
         if hitung >= batas:
-            break  # Hentikan jika sudah mencapai batas
+            break  
         
-        # Sesuaikan pengecekan kriteria dengan dataset
-        if isinstance(item.get(kriteria.lower()), list):  # Untuk kriteria yang berupa list (genre, bahasa)
+
+        if isinstance(item.get(kriteria.lower()), list):  
             if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-                hasil.append(f'{item["judul"]} - {", ".join(item[kriteria.lower()])}')
+                judul_format = f"{item['judul']} ({', '.join(item['genre'])}) ({item['tahun terbit']}) ({', '.join(item['bahasa'])})"
+                hasil.append(judul_format)
                 hitung += 1
-        else:  # Untuk kriteria yang berupa string (tahun terbit)
+        else:  
             if nilai.lower() == item.get(kriteria.lower(), "").lower():
-                hasil.append(f'{item["judul"]} - {item[kriteria.lower()]}')
+                judul_format = f"{item['judul']} ({', '.join(item['genre'])}) ({item['tahun terbit']}) ({', '.join(item['bahasa'])})"
+                hasil.append(judul_format)
                 hitung += 1
     
     if hasil:
         return "\n".join(hasil)
     else:
         return f'Tidak ada film yang ditemukan dengan {kriteria} "{nilai}".'
-
-# Contoh penggunaan
-kriteria = "genre"
-nilai = "Romance"
-batas = 5  # Menentukan batas maksimum hasil
-data_film = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_film)

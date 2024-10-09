@@ -1,4 +1,6 @@
-game = [   {
+# Dataset game
+game = [   
+    {
         "Judul": "Mobile Legends: Bang Bang",
         "Developer": ["Moonton"],
         "Tahun terbit": "2016",
@@ -1230,54 +1232,29 @@ game = [   {
     },
 ]
 
-# def tarik_data_berdasarkan_kriteria(kriteria, nilai,):
-#     hasil = []
-    
-#     for item in game:
-#         if kriteria == "Tahun terbit":  # Pengecekan khusus untuk "Tahun terbit"
-#             if item[kriteria] == nilai:  # Membandingkan langsung dengan string
-#                 format_output = f'"{item["Judul"]} ({", ".join(item["Genre"])}) ({item["Tahun terbit"]})"'
-#                 hasil.append(format_output)
-#         else:
-#             if nilai.lower() in [x.lower() for x in item.get(kriteria, [])]:  # Pencarian dalam list kriteria
-#                 format_output = f'"{item["Judul"]} ({", ".join(item["Genre"])}) ({item["Tahun terbit"]})"'
-#                 hasil.append(format_output)
-    
-#     if hasil:
-#         return "\n".join(hasil)
-#     else:
-#         return f'Tidak ada game yang ditemukan dengan {kriteria} "{nilai}".'
-    
-# # Mengambil input dari pengguna
-# kriteria = input("Masukkan kriteria (Developer, Tahun terbit, Genre): ").capitalize()  # Mengambil input kriteria
-# nilai = input(f"Masukkan nilai yang ingin dicari untuk {kriteria}: ")  # Mengambil input nilai yang ingin dicari
-
-# # Menampilkan hasil
-# data_game = tarik_data_berdasarkan_kriteria(kriteria, nilai)
-# print(data_game)
-
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+def cari_game(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     
     for item in game:
         if hitung >= batas:
             break  # Hentikan jika sudah mencapai batas
-        # Cari nilai dalam kriteria yang dicari
-        if any(nilai.lower() in x.lower() for x in item.get(kriteria.capitalize(), [])):  
-            hasil.append(f'{item["Judul"]} - {", ".join(item["Genre"])}')
-            hitung += 1  # Tambah penghitung jika game dengan genre yang diinginkan ditemukan
+        
+        # Sesuaikan pengecekan kriteria dengan dataset
+        if isinstance(item.get(kriteria.capitalize()), list):  # Untuk kriteria yang berupa list (genre atau bahasa)
+            if nilai.lower() in [x.lower() for x in item.get(kriteria.capitalize(), [])]:  
+                # Format hasil sesuai permintaan
+                judul_format = f"{item['Judul']} ({', '.join(item['Genre'])}) ({item['Tahun terbit']}) ({', '.join(item['Developer'])})"
+                hasil.append(judul_format)
+                hitung += 1
+        else:  # Untuk kriteria yang berupa string (tahun terbit atau developer)
+            if nilai.lower() == item.get(kriteria.capitalize(), "").lower():
+                # Format hasil sesuai permintaan
+                judul_format = f"{item['Judul']} ({', '.join(item['Genre'])}) ({item['Tahun terbit']}) ({', '.join(item['Developer'])})"
+                hasil.append(judul_format)
+                hitung += 1
     
     if hasil:
         return "\n".join(hasil)
     else:
-        return f'Tidak ada game yang ditemukan dengan {kriteria} "{nilai}".' 
-
-# Mengambil input dari pengguna
-kriteria = input("Masukkan kriteria pencarian (misal: Genre, Developer, atau Tahun terbit): ")
-nilai = input(f"Masukkan nilai yang dicari dalam {kriteria}: ")
-batas = int(input("Masukkan batas maksimum hasil: "))
-
-# Menampilkan hasil
-data_game = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_game)
+        return f'Tidak ada game yang ditemukan dengan {kriteria} "{nilai}".'

@@ -1324,58 +1324,29 @@ lagu = [
   }
 ]
 
-# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
-#     hasil = []
-    
-#     for item in lagu:
-#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-#             hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
-    
-#     if hasil:
-#         return "\n".join(hasil)
-#     else:
-#         return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
-# data_lagu = tarik_data_berdasarkan_kriteria(genre, pop)
-# print(data_lagu)
-
-
-# def tarik_data_berdasarkan_kriteria(kriteria, nilai):
-#     hasil = []
-    
-#     for item in lagu:
-#         if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-#             hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
-    
-#     if hasil:
-#         return "\n".join(hasil)
-#     else:
-#         return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
-
-# Contoh penggunaan
-# kriteria = "genre"
-# nilai = "Indie"
-# data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai)
-# print(data_lagu)
-
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+def cari_lagu(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     
     for item in lagu:
         if hitung >= batas:
             break  # Hentikan jika sudah mencapai batas
-        if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
-            hasil.append(f'{item["judul"]} - {", ".join(item["artis"])}')
-            hitung += 1  # Tambah penghitung jika lagu dengan genre yang diinginkan ditemukan
+        
+        # Sesuaikan pengecekan kriteria dengan dataset
+        if isinstance(item.get(kriteria.lower()), list):  # Jika kriteria berbentuk list (misal genre atau artis)
+            if nilai.lower() in [x.lower() for x in item.get(kriteria.lower(), [])]:  
+                # Format hasil sesuai permintaan
+                judul_format = f"{item['judul']} - {', '.join(item['artis'])}"
+                hasil.append(judul_format)
+                hitung += 1
+        else:  # Untuk kriteria yang berupa string (misalnya tahun rilis atau bahasa)
+            if nilai.lower() == item.get(kriteria.lower(), "").lower():
+                # Format hasil sesuai permintaan
+                judul_format = f"{item['judul']} - {', '.join(item['artis'])}"
+                hasil.append(judul_format)
+                hitung += 1
     
     if hasil:
         return "\n".join(hasil)
     else:
-        return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".' 
-
-# Contoh penggunaan
-kriteria = "genre"
-nilai = "Indie"
-batas = 5  # Menentukan batas maksimum hasil
-data_lagu = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_lagu)
+        return f'Tidak ada lagu yang ditemukan dengan {kriteria} "{nilai}".'

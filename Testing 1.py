@@ -1,4 +1,4 @@
-from media import cari_komik
+from himaaaa import cari_komik
 
 kriteria = "genre"
 nilai = "action"

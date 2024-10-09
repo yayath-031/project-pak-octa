@@ -1,3 +1,4 @@
+# Dataset series
 series = [
     {
         "judul" : "The Crown",
@@ -896,9 +897,7 @@ series = [
 ] 
 
 
- 
-
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+def cari_series(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     

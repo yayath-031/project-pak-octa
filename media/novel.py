@@ -1,3 +1,4 @@
+# Dataset novel
 novel = [
     {
         "judul" : "Hujan",
@@ -594,7 +595,8 @@ novel = [
         "tahun terbit" : "2020"
     }
 ]
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+
+def cari_novel(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     
@@ -616,10 +618,3 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
         return "\n".join(hasil)
     else:
         return f'Tidak ada novel yang ditemukan dengan {kriteria} "{nilai}".'
-
-
-kriteria = "penulis"
-nilai = "tere liye"
-batas = 5  # Menentukan batas maksimum hasil
-data_novel = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_novel)

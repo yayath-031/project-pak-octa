@@ -1,4 +1,4 @@
-#dataset komik
+# Dataset komik
 komik = [
     {
         "judul": "Zombienesia",
@@ -722,8 +722,7 @@ komik = [
     }
 ]
 
-
-def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
+def cari_komik(kriteria, nilai, batas):
     hasil = []
     hitung = 0
     
@@ -745,10 +744,3 @@ def tarik_data_berdasarkan_kriteria(kriteria, nilai, batas):
         return "\n".join(hasil)
     else:
         return f'Tidak ada komik yang ditemukan dengan {kriteria} "{nilai}".'
-
-
-kriteria = "genre"
-nilai = "action"
-batas = 5  # Menentukan batas maksimum hasil
-data_komik = tarik_data_berdasarkan_kriteria(kriteria, nilai, batas)
-print(data_komik)

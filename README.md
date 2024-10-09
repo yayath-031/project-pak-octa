@@ -10,12 +10,12 @@ Kamu bisa instal package ini menggunakan pip:
 pip install himaaaa
 ```
 ## Fitur
-- Mencari Komik berdasarkan Genre, Tahun Terbit, dan Bahasa.
-- Mencari Lagu berdasarkan Genre, Tahun Terbit, dan Developer.
-- Mencari Series berdasarkan Genre, Tahun Terbit, dan Developer.
-- Mencari Film berdasarkan Genre, Bahasa, dan Nama Artis.
-- Mencari Game berdasarkan Genre, Penulis, Tahun Terbit, dan Bahasa.
-- Mencari Novel berdasarkan Genre, Tahun Terbit, dan Bahasa.
+- Mencari Komik berdasarkan Genre, Penulis, Tahun Terbit, dan Bahasa.
+- Mencari Lagu berdasarkan Genre, Bahasa, dan Nama Artis.
+- Mencari Series berdasarkan Genre, Tahun Terbit, dan Bahasa.
+- Mencari Film berdasarkan Genre, Tahun Terbit, dan Bahasa.
+- Mencari Game berdasarkan Genre, Tahun Terbit, dan Developer.
+- Mencari Novel berdasarkan Genre, Penulis, Tahun Terbit, dan Bahasa.
 
 ## Usage
 

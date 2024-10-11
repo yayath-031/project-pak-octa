@@ -38,5 +38,5 @@ cari_film(kriteria, nilai, batas)
 cari_game(kriteria, nilai, batas)
 
 # returns 'cari_novel'
-cari_komik(kriteria, nilai, batas)
+cari_novel(kriteria, nilai, batas)
 ```

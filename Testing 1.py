@@ -1,9 +1,9 @@
-from himaaaa import cari_komik
+from himaaaa import cari_series
 
 kriteria = "genre"
-nilai = "action"
-batas = 5
-data_komik = cari_komik(kriteria, nilai, batas)
+nilai = "animation"
+batas = 25
+data_film = cari_series(kriteria, nilai, batas)
 
 
-print(data_komik)
+print(data_film)

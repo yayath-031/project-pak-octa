@@ -40,3 +40,24 @@ cari_game(kriteria, nilai, batas)
 # returns 'cari_novel'
 cari_novel(kriteria, nilai, batas)
 ```
+
+## Example
+```python
+hasil = cari_komik("penulis", "Akira Toriyama", 5)
+print(hasil)
+
+hasil = cari_lagu("artis", "Tulus", 5)
+print(hasil)
+
+hasil = cari_series("bahasa", "Bahasa Indonesia", 5)
+print(hasil)
+
+hasil = cari_film("genre", "Action", 5)
+print(hasil)
+
+hasil = cari_game("developer", "Garena", 5)
+print(hasil)
+
+hasil = cari_novel("penulis", "tereliye", 5)
+print(hasil)
+```

@@ -1,6 +1,0 @@
-README.md
-setup.py
-hima.2.egg-info/PKG-INFO
-hima.2.egg-info/SOURCES.txt
-hima.2.egg-info/dependency_links.txt
-hima.2.egg-info/top_level.txt

@@ -10,15 +10,16 @@ classifiers = [
  
 setup(
   name='himaaaa',
-  version='0.1.2',
+  version='0.2.1',
   description='Mencari referensi dengan cepat',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md', 'r', encoding='utf-8').read(),
+  long_description_content_type='text/markdown',
   url_git='https://github.com/yayath-031/project-pak-octa.git',  
   author='Kiyowo Team',
   author_email='yaynature01@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='film', 
+  keywords='film, reference, series, movie, comic, song, game, novel', 
   packages=find_packages(),
   install_requires=[''] 
 )

@@ -302,151 +302,151 @@ film = [
     },
     {
         "judul": "Battle of Surabaya",
-        "genre": ["Animation", "War"],
+        "genre": ["Animasi", "War"],
         "tahun terbit": "2015",
         "bahasa": ["Bahasa Indonesia"]
     },
     {
         "judul": "Si Juki The Movie",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2017",
         "bahasa": ["Bahasa Indonesia"]
     },
     {
         "judul": "Knight Kris",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "2017",
         "bahasa": ["Bahasa Indonesia"]
     },
     {
         "judul": "Adit & Sopo Jarwo: The Movie",
-        "genre": ["Animation", "Family"],
+        "genre": ["Animasi", "Family"],
         "tahun terbit": "2016",
         "bahasa": ["Bahasa Indonesia"]
     },
     {
         "judul": "Meraih Mimpi",
-        "genre": ["Animation", "Musical"],
+        "genre": ["Animasi", "Musical"],
         "tahun terbit": "2009",
         "bahasa": ["Bahasa Indonesia"]
     },
     {
         "judul": "Toy Story",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "1995",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Finding Nemo",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "2003",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "The Lion King",
-        "genre": ["Animation", "Drama"],
+        "genre": ["Animasi", "Drama"],
         "tahun terbit": "1994",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Shrek",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2001",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Frozen",
-        "genre": ["Animation", "Musical"],
+        "genre": ["Animasi", "Musical"],
         "tahun terbit": "2013",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Spirited Away",
-        "genre": ["Animation", "Fantasy"],
+        "genre": ["Animasi", "Fantasy"],
         "tahun terbit": "2001",
         "bahasa": ["Bahasa Jepang"]
     },
     {
         "judul": "Coco",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "2017",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Up",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "2009",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Moana",
-        "genre": ["Animation", "Musical"],
+        "genre": ["Animasi", "Musical"],
         "tahun terbit": "2016",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Zootopia",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2016",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "The Incredibles",
-        "genre": ["Animation", "Superhero"],
+        "genre": ["Animasi", "Superhero"],
         "tahun terbit": "2004",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "How to Train Your Dragon",
-        "genre": ["Animation", "Fantasy"],
+        "genre": ["Animasi", "Fantasy"],
         "tahun terbit": "2010",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Monsters, Inc.",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2001",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Ratatouille",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2007",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "The Lego Movie",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2014",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "WALL-E",
-        "genre": ["Animation", "Sci-Fi"],
+        "genre": ["Animasi", "Sci-Fi"],
         "tahun terbit": "2008",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "The Nightmare Before Christmas",
-        "genre": ["Animation", "Fantasy"],
+        "genre": ["Animasi", "Fantasy"],
         "tahun terbit": "1993",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Kubo and the Two Strings",
-        "genre": ["Animation", "Adventure"],
+        "genre": ["Animasi", "Adventure"],
         "tahun terbit": "2016",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Despicable Me",
-        "genre": ["Animation", "Comedy"],
+        "genre": ["Animasi", "Comedy"],
         "tahun terbit": "2010",
         "bahasa": ["Bahasa Inggris"]
     },
     {
         "judul": "Big Hero 6",
-        "genre": ["Animation", "Superhero"],
+        "genre": ["Animasi", "Superhero"],
         "tahun terbit": "2014",
         "bahasa": ["Bahasa Inggris"]
     },

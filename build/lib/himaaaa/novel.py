@@ -219,7 +219,7 @@ novel = [
     {
         "judul" : "Misteri dalam Kegelapan",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2017"
     },
     {
@@ -229,7 +229,7 @@ novel = [
         "tahun terbit" : "2019"
     },
     {
-        "judul" : "Cinta di Tengah Mystery",
+        "judul" : "Cinta di Tengah Misteri",
         "penulis" : "Risa Saraswati",
         "genre" : ["Thriller", "Romance"],
         "tahun terbit" : "2020"
@@ -313,7 +313,7 @@ novel = [
         "tahun terbit" : "2019"
     },
     {
-        "judul" : "Mystery Sejarah",
+        "judul" : "Misteri Sejarah",
         "penulis" : "Djenar Maesa Ayu",
         "genre" : ["Sejarah", "Thriller"],
         "tahun terbit" : "2018"
@@ -475,123 +475,123 @@ novel = [
         "tahun terbit" : "2016"
     },
     {
-        "judul" : "Mystery Gunung Merapi",
+        "judul" : "Misteri Gunung Merapi",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2015"
     },
     {
         "judul" : "Dua Laki-laki dan Satu Perempuan",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2016"
     },
     {
-        "judul" : "Cinta dan Mystery",
+        "judul" : "Cinta dan Misteri",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2018"
     },
     {
         "judul" : "Buku Harian Seorang Jurnalis",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2017"
     },
     {
-        "judul" : "Mystery di Balik Tirta",
+        "judul" : "Misteri di Balik Tirta",
         "penulis" : "Tere Liye",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2021"
     },
     {
         "judul" : "Jejak Kecil",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2018"
     },
     {
         "judul" : "Kepulangan",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2019"
     },
     {
         "judul" : "Sampai Jumpa",
         "penulis" : "Tere Liye",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2020"
     },
     {
         "judul" : "Kompetisi Cinta",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2020"
     },
     {
         "judul" : "Cinta Tak Terduga",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2021"
     },
     {
-        "judul" : "Mystery Cinta",
+        "judul" : "Misteri Cinta",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2019"
     },
     {
         "judul" : "Cinta di Tengah Bahaya",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2017"
     },
     {
         "judul" : "Petunjuk Kematian",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2018"
     },
     {
         "judul" : "Bayang-bayang",
         "penulis" : "Tere Liye",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2022"
     },
     {
         "judul" : "Kisah Pembunuhan",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2020"
     },
     {
         "judul" : "Jalan Cinta",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2021"
     },
     {
         "judul" : "Rahasia di Balik Hujan",
         "penulis" : "Tere Liye",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2018"
     },
     {
         "judul" : "Pusaran Hati",
         "penulis" : "Risa Saraswati",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2019"
     },
     {
-        "judul" : "Mystery Pulau Terasing",
+        "judul" : "Misteri Pulau Terasing",
         "penulis" : "Djenar Maesa Ayu",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2017"
     },
     {
         "judul" : "Kembali ke Jakarta",
         "penulis" : "Tere Liye",
-        "genre" : ["Thriller", "Mystery"],
+        "genre" : ["Thriller", "Misteri"],
         "tahun terbit" : "2020"
     }
 ]
